@@ -1,16 +1,30 @@
+yusuf@pop-os:~$ cat info.txt
 ### Hi there 👋
 
-<!--
-**Yusufware/Yusufware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is Yusuf :D
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on learning ModernGL and developing my web programming skills!
+- 🌱 I’m currently learning ModernGL and web development!
+- 📫 How to reach me: Through Discord! -> Yusufware#8571
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+yusuf@pop-os:~$ neofetch
+             /////////////                yusuf@pop-os 
+         /////////////////////            ------------ 
+      ///////*767////////////////         OS: Pop!_OS 22.04 LTS x86_64 
+    //////7676767676*//////////////        
+   /////76767//7676767//////////////       
+  /////767676///*76767///////////////      
+ ///////767676///76767.///7676*///////     
+/////////767676//76767///767676////////    
+//////////76767676767////76767/////////    
+///////////76767676//////7676//////////    
+////////////,7676,///////767///////////    
+/////////////*7676///////76////////////    
+///////////////7676////////////////////    
+ ///////////////7676///767////////////     
+  //////////////////////'////////////      
+   //////.7676767676767676767,//////       
+    /////767676767676767676767/////
+      ///////////////////////////                                 
+         /////////////////////                                    
+             /////////////
