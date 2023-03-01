@@ -1,4 +1,4 @@
-yusuf@pop-os:~$ cat info.txt
+yusuf@ubuntu:~$ cat README.md
 ## Hi there 👋
 ### My name is Yusuf :D
 
